@@ -26,3 +26,5 @@ Problem Statement 2: Charts
 3.	YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a donut chart.
 4.	YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a bar chart to visualize the sales distribution geographically.
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
+
+![Dashboard](https://github.com/hbkagitha/DA-Portfolio_Tableau-CarSales/blob/main/Dashboard.png)
